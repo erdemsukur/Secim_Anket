@@ -1,0 +1,16 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\bin\Debug\Secimanket.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\bin\Debug\Secimanket.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\obj\x86\Debug\Secimanket.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\obj\x86\Debug\Secimanket.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\obj\x86\Debug\Secimanket.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\obj\x86\Debug\Secimanket.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Secimanket\obj\x86\Debug\Secimanket.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\bin\Debug\Secimanket.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\bin\Debug\Secimanket.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Debug\Secimanket.csprojResolveAssemblyReference.cache

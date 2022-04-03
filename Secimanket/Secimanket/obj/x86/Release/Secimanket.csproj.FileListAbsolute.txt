@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\bin\Release\Secimanket.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\bin\Release\Secimanket.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Secimanket\Secimanket\obj\x86\Release\Secimanket.pdb
